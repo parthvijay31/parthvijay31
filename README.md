@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Parth Vijay</h1>
 <h3 align="center">|Coding my way through the matrix| C++|Web3|CS major|</h3>
-<img align="right" alt="Coding" width="400" src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZia2Z1d3NqeHR5cWJheG1paTRmMmVxcDV3OWFwN3JmZHBleXU2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.mp4">
+<img align="right" alt="Coding" width="400" src= "https://i.giphy.com/RbDKaczqWovIugyJmW.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthvijay31&label=Profile%20views&color=0e75b6&style=flat" alt="parthvijay31" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthvijay31" alt="parthvijay31" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/parthvijay18" target="blank"><img src="https://img.shields.io/twitter/follow/parthvijay18?logo=twitter&style=for-the-badge" alt="parthvijay18" /></a> </p>
 
